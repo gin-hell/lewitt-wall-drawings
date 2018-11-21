@@ -1,0 +1,17 @@
+*.plist
+*.xcodeproj
+*.xcconfig
+
+Makefile
+config.make
+
+*.app
+
+docs/_site
+
+_*
+
+res/
+srcJava/
+*.gradle
+AndroidManifest.xml
